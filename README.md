@@ -1,2 +1,2 @@
 # Data_Science_Portfolio
-Portfólio de projetos de Data Science criados
+Portfólio com projetos de Data Science criados por Dimas Tadeu Parreiras com o objetivo de aprendizado e demonstração de conhecimento obtido.
